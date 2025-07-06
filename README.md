@@ -8,4 +8,6 @@
 ## 👩‍💻 Автор
 Tiranousor (Екатерина Серова)
 
+## 🌐 Ссылка на приложение
+👉 [Перейти в Streamlit](https://spaceship-titanic-app-x3xneg5buswdjx6n6odbk4.streamlit.app/)
 
