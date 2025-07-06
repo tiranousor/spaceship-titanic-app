@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+*.log
+*.tmp
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# Streamlit-specific cache
+.streamlit/
+
+# PyCharm project files
+.idea/
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/
+.envrc
+*.env
+
+# Dataset files (если не хочешь добавлять train.csv)
+# train.csv
+# test.csv
+
+# VS Code settings (если используешь)
+.vscode/
